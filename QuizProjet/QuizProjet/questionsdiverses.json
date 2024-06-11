@@ -1,0 +1,77 @@
+[
+    {
+        "question": "Quel pays a organisé les Jeux Olympiques d'été en 2021, après un report d'un an en raison de la pandémie de COVID-19 ?",
+        "options": ["Le Japon", "La France", "L'Australie", "Les États-Unis"],
+        "answer": "Le Japon"
+    },
+    {
+        "question": "Quel est le nom de l'animal marin qui est aussi connu comme la \"licorne de mer\" en raison de sa longue corne dentelée ?",
+        "options": ["Narval", "Baleine", "Méduse", "Orque"],
+        "answer": "Narval"
+    },
+    {
+        "question": "Quel est le nom du célèbre parc d'attractions situé en Floride et connu pour ses manèges et ses personnages de dessins animés ?",
+        "options": ["Disneyland", "Universal Studios", "Disney World", "SeaWorld"],
+        "answer": "Disney World"
+    },
+    {
+        "question": "Quel est le nom du célèbre plombier qui apparaît dans de nombreux jeux vidéo de Nintendo ?",
+        "options": ["Luigi", "Sonic", "Mario", "Link"],
+        "answer": "Mario"
+    },
+    {
+        "question": "Quel est le nom du chien détective dans la série animée \"Scooby-Doo\" ?",
+        "options": ["Scooby-Doo", "Pluto", "Snoopy", "Rex"],
+        "answer": "Scooby-Doo"
+    },
+    {
+        "question": "Quel est le nom du célèbre joueur de basket-ball connu pour ses dunks spectaculaires et ses surnoms \"The King\" et \"King James\" ?",
+        "options": ["Kobe Bryant", "LeBron James", "Michael Jordan", "Shaquille O'Neal"],
+        "answer": "LeBron James"
+    },
+    {
+        "question": "Quel est le nom de la célèbre poupée blonde en plastique articulée lancée par Mattel en 1959 ?",
+        "options": ["Barbie", "Ken", "Bratz", "Cindy"],
+        "answer": "Barbie"
+    },
+    {
+        "question": "Quel est le nom du célèbre super-héros milliardaire et philanthrope qui combat le crime à Gotham City ?",
+        "options": ["Iron Man", "Spider-Man", "Batman", "Superman"],
+        "answer": "Batman"
+    },
+    {
+        "question": "Quel est le nom du célèbre jeu de construction qui permet de créer des mondes virtuels avec des blocs ?",
+        "options": ["Minecraft", "Roblox", "Fortnite", "The Sims"],
+        "answer": "Minecraft"
+    },
+    {
+        "question": "Quel est le nom du célèbre hérisson bleu qui est le personnage principal de nombreux jeux vidéo de Sega ?",
+        "options": ["Sonic", "Tails", "Knuckles", "Shadow"],
+        "answer": "Sonic"
+    },
+    {
+        "question": "Quel est le nom de la célèbre série animée japonaise mettant en scène un jeune garçon qui capture et entraîne des créatures fantastiques ?",
+        "options": ["Pokémon", "Dragon Ball Z", "Naruto", "One Piece"],
+        "answer": "Pokémon"
+    },
+    {
+        "question": "Quel est le nom du célèbre réalisateur de films d'animation comme \"Toy Story\", \"Monstres et Cie\" et \"Cars\" ?",
+        "options": ["Steven Spielberg", "Tim Burton", "Pixar", "Hayao Miyazaki"],
+        "answer": "Pixar"
+    },
+    {
+        "question": "Quel est le nom du célèbre jeu de société où les joueurs doivent faire deviner des mots à l'aide de dessins ?",
+        "options": ["Taboo", "Pictionary", "Dixit", "Charades"],
+        "answer": "Pictionary"
+    },
+    {
+        "question": "Quel est le nom du célèbre jeu de construction composé de petites briques colorées ?",
+        "options": ["LEGO", "K'NEX", "Mega Bloks", "Playmobil"],
+        "answer": "LEGO"
+    },
+    {
+        "question": "Quel est le nom du célèbre personnage jaune et rond qui mange des points et des fantômes dans un jeu vidéo classique ?",
+        "options": ["Pac-Man", "Mario", "Donkey Kong", "Ms. Pac-Man"],
+        "answer": "Pac-Man"
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "question": "Quel est le mot anglais pour \"maison\" ?",
+        "options": ["Home", "Chair", "School", "Food"],
+        "answer": "Home"
+    },
+    {
+        "question": "Qui est l'auteur de la saga \"Harry Potter\" ?",
+        "options": ["J.K. Rowling", "Roald Dahl", "Stephen King", "Shakespeare"],
+        "answer": "J.K. Rowling"
+    },
+    {
+        "question": "Quel est le participe passé du verbe \"aller\" en anglais ?",
+        "options": ["Go", "Went", "Gone", "did"],
+        "answer": "Gone"
+    },
+    {
+        "question": "Quel pays parle-t-on principalement en Anglais ?",
+        "options": ["L'Angleterre", "L'Espagne", "Le Japon", "Le Brésil"],
+        "answer": "L'Angleterre"
+    },
+    {
+        "question": "Qui a écrit la pièce de théâtre \"Roméo et Juliette\" ?",
+        "options": ["Stephen King", "William Shakespeare", "Oscar Wilde", "Charles Dickens"],
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "What language do we speak in Spain ?",
+        "options": ["Portuguese", "English", "French", "Spanish"],
+        "answer": "Spanish"
+    },
+    {
+        "question": "Quel est le mot anglais pour \"école\" ?",
+        "options": ["School", "Book", "Teacher", "Desk"],
+        "answer": "School"
+    },
+    {
+        "question": "Qui a écrit le roman \"1984\" ?",
+        "options": ["Oscar Wilde", "H.G. Wells", "George Orwell", "Aldous Huxley"],
+        "answer": "George Orwell"
+    },
+    {
+        "question": "Quel est le passé simple du verbe \"to be\" (être) ?",
+        "options": ["Was / Were", "Is", "Am", "run"],
+        "answer": "Was / Were"
+    },
+    {
+        "question": "Quel est le nom de la capitale du Royaume-Uni ?",
+        "options": ["Manchester", "London", "Dublin", "Edinburgh"],
+        "answer": "London"
+    },
+    {
+        "question": "Quel dessin animé a pour personnages un groupe de chien dirigé par l'énergique chien Ryder ?",
+        "options": ["Puppy Patrol", "Canine Rescue Team", "PAW Patrol", "Dog Squad Adventures"],
+        "answer": "PAW Patrol"
+    
+    },
+    {
+        "question": "Quel est le mot anglais pour \"chat\" ?",
+        "options": ["Horse", "Dog", "Cat", "Fish"],
+        "answer": "Cat"
+    },
+    {
+        "question": "Quel est le nom du personnage principal du livre \"Le Petit Prince\" ?",
+        "options": ["The Medium Prince", "The Little Prince", "The Big Prince", "The young prince"],
+        "answer": "The Little Prince"
+    },
+    {
+        "question": "Quel est le nom de la dernière reine du Royaume-Uni ?",
+        "options": ["Queen Elizabeth II", "Queen Victoria", "Queen Mary", "Queen Anne"],
+        "answer": "Queen Elizabeth II"
+    },
+    {
+        "question": "Quel est le nom du plus célèbre détective de fiction créé par Sir Arthur Conan Doyle ?",
+        "options": ["Sam Spade", "Sherlock Holmes", "Hercule Poirot", "Miss Marple"],
+        "answer": "Sherlock Holmes"
+    }
+]

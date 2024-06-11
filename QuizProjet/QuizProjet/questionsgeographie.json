@@ -1,0 +1,79 @@
+[
+    {
+      "question": "Quel est le nom de la capitale de la France ?",
+      "options": ["Paris", "Londres", "Berlin", "Rome"],
+      "answer": "Paris"
+    },
+    {
+      "question": "Qui a peint la Joconde ?",
+      "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Michel-Ange"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "Quelle planète est la plus proche du Soleil ?",
+      "options": ["Vénus", "Mercure", "Mars", "Jupiter"],
+      "answer": "Mercure"
+    },
+    {
+      "question": "Quel événement historique a marqué la fin de la période médiévale en Europe ?",
+      "options": ["La Révolution française", "La Guerre de Cent Ans", "La chute de l'Empire romain d'Occident", "Les premiers Jeux Olympiques"],
+      "answer": "La Révolution française"
+    },
+    {
+      "question": "Qui était le premier président des États-Unis ?",
+      "options": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "John F. Kennedy"],
+      "answer": "George Washington"
+    },
+    {
+      "question": "Quel est le plus long fleuve du monde ?",
+      "options": ["Le Gange", "Le Nil", "L'Amazone", "Le Mississippi"],
+      "answer": "L'Amazone"
+    },
+    {
+      "question": "Quel pays est célèbre pour ses pyramides anciennes ?",
+      "options": [" La Tunisie", "La Belgique", "Le Sénégal", "L'Égypte"],
+      "answer": "L'Égypte"
+    },
+    {
+      "question": "Quel est le nom de la mer située entre l'Europe et l'Afrique ?",
+      "options": ["La mer Méditerranée", "La mer Noire", "La mer Rouge", "La Manche"],
+      "answer": "La mer Méditerranée"
+    },
+    {
+      "question": "Quel événement a marqué la fin de la Guerre froide ?",
+      "options": ["La Révolution russe", "La chute du mur de Berlin", "La création de l'OTAN", "Les élections présidentielles"],
+      "answer": "La chute du mur de Berlin"
+    },
+    {
+      "question": "Quelle est la plus grande île du monde ?",
+      "options": ["Groenland", "Madagascar", "Nouvelle-Guinée", "L'Australie"],
+      "answer": "Groenland"
+    },
+    {
+      "question": "Qui était le célèbre explorateur qui a découvert l'Amérique ?",
+      "options": ["Vasco de Gama", "Christophe Colomb", "Elon Musk", "Marco Polo"],
+      "answer": "Christophe Colomb"
+    },
+    {
+      "question": "Quel est le nom de la plus haute montagne du monde ?",
+      "options": ["Mont Everest", "Mont Kilimandjaro", "Mont Fuji", "Mont Blanc"],
+      "answer": "Mont Everest"
+    },
+    {
+      "question": "Quel est le nom de l'océan le plus grand du monde ?",
+      "options": ["L'océan Pacifique", "L'océan Atlantique", "L'océan Indien", "L'océan Arctique"],
+      "answer": "L'océan Pacifique"
+    },
+    {
+      "question": "Quel est le nom du continent où se trouve l'Égypte ?",
+      "options": ["L'Amérique du Sud", "L'Afrique", "L'Asie", "L'Europe"],
+      "answer": "L'Afrique"
+    },
+    {
+      "question": "Quelle est la capitale de l'Australie ?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+      "answer": "Canberra"
+    }
+]
+
+

@@ -1,0 +1,77 @@
+[
+    {
+        "question": "Quel est le verbe conjugué correctement à la 3ème personne du singulier au présent de l'indicatif dans la phrase : \"Il (manger) son déjeuner\" ?",
+        "options": ["mangent", "mange", "mangé", "manges"],
+        "answer": "mange"
+    },
+    {
+        "question": "Quel est le nom commun dans la phrase : \"Le chat noir dort dans jusqu'à 8h tous les matins\" ?",
+        "options": [ "chat", "noir","tous", "dort"],
+        "answer": "chat"
+    },
+    {
+        "question": "Quel est le mot qui remplace le nom dans la phrase : \"Paul aime les glaces, il en mange tous les jours\" ?",
+        "options": ["aime", "tous", "en", "Paul"],
+        "answer": "en"
+    },
+    {
+        "question": "Quel est l'adverbe de temps dans la phrase : \"Hier, j'ai rencontré mes amis au parc\" ?",
+        "options": ["Hier", "j'ai", "amis", "au"],
+        "answer": "Hier"
+    },
+    {
+        "question": "Quel est le mot pronom dans la phrase suivante : \"Le grand arbre vert\" ?",
+        "options": ["arbre", "vert", "grand", "Le"],
+        "answer": "Le"
+    },
+    {
+        "question": "Quelle est la forme correcte du féminin de \"grand\" ?",
+        "options": ["grande", "grandement", "grands", "grandi"],
+        "answer": "grande"
+    },
+    {
+        "question": "Quel est le nom de l'endroit où l'on range les livres à la maison ?",
+        "options": ["L'étagère", "La bibliothèque", "Le salon", "La chambre"],
+        "answer": "La bibliothèque"
+    },
+    {
+        "question": "Quel est le sujet de la phrase : \"Les oiseaux chantent au printemps\" ?",
+        "options": ["Les", "oiseaux", "chantent", "Printemps"],
+        "answer": "oiseaux"
+    },
+    {
+        "question": "Quelle est la conjugaison correcte du verbe \"chanter\" à la première personne du singulier au futur simple ?",
+        "options": ["Je chantais", "Je chante", "Je chantai", "Je chanterai"],
+        "answer": "Je chanterai"
+    },
+    {
+        "question": "Quelle est la fonction de \"et\" dans la phrase : \"Pierre et Paul sont des amis\" ?",
+        "options": ["Conjonction de coordination", "Préposition", "Verbe", "Adjectif"],
+        "answer": "Conjonction de coordination"
+    },
+    {
+        "question": "Quelle est la nature du mot \"gentiment\" dans la phrase : \"Elle parle gentiment\" ?",
+        "options": ["Verbe", "Adverbe", "Adjectif", "Nom"],
+        "answer": "Adverbe"
+    },
+    {
+        "question": "Quel est le nom de la lettre qui se trouve à la fin de l'alphabet ?",
+        "options": ["F", "W", "Z", "P"],
+        "answer": "Z"
+    },
+    {
+        "question": "Quel est le mot qui signifie la même chose que \"grand\" ?",
+        "options": ["Petit", "Long", "Haut", "Maigre"],
+        "answer": "Haut"
+    },
+    {
+        "question": "Quelle est la forme correcte du pluriel de \"cheval\" ?",
+        "options": ["Chevals", "Chevalier", "Cheveux", "Chevaux"],
+        "answer": "Chevaux"
+    },
+    {
+        "question": "Quel est le signe de ponctuation qui marque une phrase interrogative ?",
+        "options": ["Le Point d'exclamation", "Le Point d'interrogation", "Le Point virgule", "Le Point de suspension"],
+        "answer": "Le Point d'interrogation"
+    }
+]
